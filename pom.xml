@@ -26,6 +26,7 @@
         <module>config-client-amqp</module>
         <module>zipkin-service-hi</module>
         <module>zipkin-service-miya</module>
+        <module>gateway-first-sight</module>
     </modules>
 
     <properties>
